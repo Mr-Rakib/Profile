@@ -45,5 +45,6 @@ html{
     .main
     {
       height: calc(100vh - 80vh);
+      margin-top: 6rem;
     }
   }
